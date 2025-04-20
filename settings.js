@@ -10,14 +10,14 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
-//Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +573218138672
+//Sólo aplica para opción 2 (ser bot con código de texto de 9 digitos)
+global.botNumberCode = '258833152230' //Ejemplo: 258833152230
 global.confirmCode = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5491168758497', 'Creator 👑', true]
+   ['258833152230,258876598622', 'Creator 👑', true]
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -31,17 +31,17 @@ global.prems = []
 global.isBaileysFail = false
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.7'
-global.nameqr = '𝐘𝐮𝐫𝐢𝐧𝐞𝐁𝐨𝐭-𝐌𝐃'
+global.nameqr = '𝐘𝐮𝐫𝐢𝐧𝐞𝐁𝐨𝐭-𝐇𝐃'
 global.sessions = 'YurineSession'
 global.jadi = 'YurineJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 🎀 𝒴𝓊𝓇𝒾𝓃𝑒𝐵❁𝓉-𝑀𝒟 🎀 ✰⪜'
-global.botname = 'уυяιηє - вσт - м∂'
-global.wm = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ YυɾιɳҽBσƚ ☄︎'
-global.author = 'ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ EnzoOfc ᰔᩚ'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ MoonLight 𝗍ᥱᥲm ⚡︎'
+global.packname = '⪛✰𝙴𝙳𝙸𝙾 𝚂𝙲𝙾𝚃𝚃 ✰⪜'
+global.botname = '𝐘𝐔𝐑𝐈 𝐁𝐎𝐓 𝐇𝐃'
+global.wm = '© 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐘𝐔𝐑𝐈 ☄︎'
+global.author = '𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐄𝐝𝐢𝐨 𝐡𝐝'
+global.dev = '© 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚜𝚘𝚞𝚜𝚊 𝗍ᥱᥲm ⚡︎'
 global.textbot = '𝒀𝒖𝒓𝒊𝒏𝒆𝑩𝒐𝒕-𝑴𝑫 : Ξｎｚｉｔｏ♢ｆｃ ✔︎'
 global.vs = '2.0.6'
 
@@ -58,17 +58,8 @@ global.avatar = fs.readFileSync('./media/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //YaemoriBot
-global.grupo2 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //YaemoriBot2
-global.grupo3 = 'hhttps://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //team oficial
-global.grupo4 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //GataBot & YaemoriBot
-global.grupo5 = 'https://chat.whatsapp.com/HDehe36QPmI2Fa7kH4j6Bh' //Curiosity & YaemoriBot
-global.channel = 'https://www.whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'
-global.channel2 = 'https://www.whatsapp.com/channel/0029VaebIzqJ3jv1VuZDt90t'
-global.md = 'https://github.com/EnzikOFC/YurineBot-MD' 
-global.yt = 'https://www.youtube.com/@Enzito-19'
-global.tiktok = ''
-global.correo = 'yurinebotmd@gmail.com'
+global.grupo = 'https://chat.whatsapp.com/Ir9g2spQpyu7bnPhhv8jVx' //YaemoriBot
+global.correo = 'edioaugustoluistembe@gmail.com 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
